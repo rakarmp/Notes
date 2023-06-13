@@ -65,3 +65,5 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah di 
 5. Push ke branch yang Anda buat (`git push origin fitur-baru`).
 
 6. Buat Pull Request baru.
+
+https://www.buymeacoffee.com/rakaabdirmp
